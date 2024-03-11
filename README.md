@@ -21,8 +21,3 @@
 
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat) ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat) ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat) ![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=flat) ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat) ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
-### Lets Connect with Me!
-
-- **LinkedIn**: [Insert LinkedIn profile here]
-- **Twitter**: [Insert Twitter handle here]
-
