@@ -13,7 +13,7 @@
   - Blockchain (Web3)
   - Financial Engineering (Quantitative Finance)
 
-### Languages and Tools ⚡
+### List of Pokemon I Caught ⚡
 
 | **Languages**        | **Frameworks & Libraries** | **Tools & Misc**            |
 |----------------------|--------------------------|-----------------------------|
@@ -22,7 +22,7 @@
 | ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) | ![SciPy Badge](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=fff&style=flat) | ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) |
 | ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat) | ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat) | ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat) |
 | ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat) | ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat) | ![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=flat) |
-|                      | ![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=flat) | ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat) |
+| ![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=flat)                     | ![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=flat) | ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat) |
 |                      | ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat) | ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat) |
 
 
