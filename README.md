@@ -6,7 +6,7 @@
 
 - 🎓 Biomedical Engineering (Fresh) Graduate @ [Universitas Gadjah Mada](https://ugm.ac.id/en/).
 - 💻 Currently working as Artificial Intelligence Engineer Intern @ [Kalbe Digital Lab](https://www.kalbe.co.id/en).
-- 🗣️ I have no idea what I'm doing right now.
+- 🗣️ I love building for personal use or business purposes.
 - 📚 Currently learning about:
   - Software Engineering
   - Machine Learning (Artificial Intelligence)
