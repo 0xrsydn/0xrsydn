@@ -5,7 +5,7 @@
 ### About Me 🤔
 
 - 🎓 Biomedical Engineering Graduate @ [Universitas Gadjah Mada](https://ugm.ac.id/en/).
-- 💻 Currently working as Data Engineer for Digital Marketing Agency. Previously working as Artificial Intelligence Engineer Intern @ [Kalbe Digital Lab](https://www.kalbe.co.id/en).
+- 💻 Currently working as Data Engineer. Previously working as Artificial Intelligence Engineer Intern @ [Kalbe Digital Lab](https://www.kalbe.co.id/en).
 - 📚 Currently learning/pursuing about:
   - Software Engineering
   - Machine Learning
