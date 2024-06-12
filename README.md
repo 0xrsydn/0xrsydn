@@ -14,7 +14,7 @@
   - System Design
   - Quantitative Finance
 
-### List of Pokemon I Caught ⚡
+### Tech Stacks ⚡
 
 | **Languages**        | **Frameworks & Libraries** | **Tools & Misc**            |
 |----------------------|----------------------------|-----------------------------|
@@ -26,4 +26,5 @@
 |                      | ![FastAPI Badge](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat) | ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat) |
 |                      | ![Flask Badge](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat) | ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat) |
 
+![0xrsydn's Stats](https://github-readme-stats.vercel.app/api?username=0xrsydn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
