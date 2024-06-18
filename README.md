@@ -13,6 +13,7 @@
   - Data
   - System Design
   - Quantitative Finance
+  - Web3/Blockchain
 
 ### Tech Stacks ⚡
 
