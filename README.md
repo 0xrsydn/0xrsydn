@@ -1,21 +1,5 @@
 [![LinkedIn Badge](https://img.shields.io/badge/rsydn-0A66C2?logo=linkedin&logoColor=fff&style=flat&href=https://www.linkedin.com/in/rsydn/)](https://www.linkedin.com/in/rsydn/) [![Discord Badge](https://img.shields.io/badge/diabolicjoker-5865F2?logo=discord&logoColor=fff&style=flat&href=https://discordapp.com/users/312064147154010112)](https://discordapp.com/users/312064147154010112) [![Gmail Badge](https://img.shields.io/badge/rasyidanakbar@mail.ugm.ac.id-EA4335?logo=gmail&logoColor=fff&style=flat&href=mailto:rasyidanakbar@mail.ugm.ac.id)](mailto:rasyidanakbar@mail.ugm.ac.id)
 
-# Hi there 👋 
-
-### About Me 🤔
-
-- 🎓 Biomedical Engineering Graduate @ [Universitas Gadjah Mada](https://ugm.ac.id/en/).
-- 💻 Currently working as Data Engineer. Previously working as Artificial Intelligence Engineer Intern @ [Kalbe Digital Lab](https://www.kalbe.co.id/en).
-- 📚 Currently learning/pursuing about:
-  - Software Engineering
-  - Machine Learning
-  - Large Language Model
-  - Data
-  - System Design
-  - Quantitative Finance
-  - Web3/Blockchain
-
-### Tech Stacks ⚡
 
 | **Languages** | **Frameworks & Libraries**                             | **Tools & Misc**                                           |
 |---------------|--------------------------------------------------------|------------------------------------------------------------|
