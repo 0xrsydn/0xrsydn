@@ -3,8 +3,9 @@
 - generalist, forever noob, pursuing neverending knowledges and wisdoms lol
 - biomedical engineering graduate at [ugm](https://ugm.ac.id)
 - currently working as data engineer for full-time job while also doing fullstack software and ai-engineering as side gigs contracts.
-- language & tool agnostic, i will use and learn any cool and useful tool available whether is it newest, modern one or an old, legacy tool as long as it fulfil my goal
+- language & tool agnostic, while quite opiniated in tech stack regarding being open and framework-agnostic (nixos btw), i will use and learn any cool and useful tool available whether is it newest, modern one or an old, legacy tool as long as it fulfil my goal
 - i have self-hosted forgejo as my backup in case github become worse in the future -> https://git.rasyidanaf.com
+- ~~disclaimer that im leveraging ai-assisted coding on my works, mostly claude code & codex~~
 
 framework-agnostic, but most of the time, this is what i have been using personally...
 | **languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff&style=flat) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat) |
