@@ -4,7 +4,7 @@
 - biomedical engineering graduate at [ugm](https://ugm.ac.id)
 - currently working as data engineer for full-time job while also doing fullstack software and ai-engineering as side gigs contracts.
 - language & tool agnostic, while quite opiniated in tech stack regarding being open and framework-agnostic (nixos btw), i will use and learn any cool and useful tool available whether is it newest, modern one or an old, legacy tool as long as it fulfil my goal
-- i have self-hosted forgejo as my backup in case github become worse in the future -> https://git.rasyidanaf.com
+- i have self-hosted forgejo as my backup in case github become worse in the future -> https://git.rasyidanaf.com/0xrsydn
 - ~~disclaimer that im leveraging ai-assisted coding on my works, mostly claude code & codex~~
 
 framework-agnostic, but most of the time, this is what i have been using personally...
@@ -15,3 +15,8 @@ framework-agnostic, but most of the time, this is what i have been using persona
 | **database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat) |
 | **cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff&style=flat) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=fff&style=flat) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat) |
 | **devops** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) |
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=0xrsydn&show_icons=true&theme=dracula&hide_border=true" alt="0xrsydn's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrsydn&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</p>
