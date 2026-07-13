@@ -1,22 +1,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/rsydn-0A66C2?logo=linkedin&logoColor=fff&style=flat&href=https://www.linkedin.com/in/rsydn/)](https://www.linkedin.com/in/rsydn/) [![Discord Badge](https://img.shields.io/badge/diabolicjoker-5865F2?logo=discord&logoColor=fff&style=flat&href=https://discordapp.com/users/312064147154010112)](https://discordapp.com/users/312064147154010112) [![Gmail Badge](https://img.shields.io/badge/rasyidanakbar@mail.ugm.ac.id-EA4335?logo=gmail&logoColor=fff&style=flat&href=mailto:rasyidanakbar@mail.ugm.ac.id)](mailto:rasyidanakbar@mail.ugm.ac.id)
 
-- generalist, forever noob, pursuing neverending knowledges and wisdoms lol
-- biomedical engineering graduate at [ugm](https://ugm.ac.id)
-- currently working as data engineer for full-time job while also doing fullstack software and ai-engineering as side gigs contracts.
+- generalist, forever noob, pursuing neverending knowledges and wisdoms in tech realm
+- biomedical engineering graduate at [ugm](https://ugm.ac.id) 
+- currently working as an ai engineer for singapore company while also doing fullstack software and ai-engineering as side gigs contracts, previously working as data engineer
 - language & tool agnostic, while quite opiniated in tech stack regarding being open and framework-agnostic (nixos btw), i will use and learn any cool and useful tool available whether is it newest, modern one or an old, legacy tool as long as it fulfil my goal
 - i have self-hosted forgejo as my backup in case github become worse in the future -> https://git.rasyidanaf.com/0xrsydn
 - ~~disclaimer that im leveraging ai-assisted coding on my works, mostly claude code & codex~~
+- more info and my *bad* writings @ [rasyidanaf.com](https://rasyidanaf.com)
 
-framework-agnostic, but most of the time, this is what i have been using personally...
-| **languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff&style=flat) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat) |
-|---------------|---|
-| **data** | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat) ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=fff&style=flat) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?logo=clickhouse&logoColor=000&style=flat) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=flat) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000&style=flat) ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=fff&style=flat) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat) |
-| **ml** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff&style=flat) |
-| **database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat) |
-| **cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff&style=flat) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=fff&style=flat) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat) |
-| **devops** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) |
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=0xrsydn&show_icons=true&theme=dracula&hide_border=true" alt="0xrsydn's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xrsydn&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+![0xrsydn's GitHub stats](https://github-stats.rasyidanaf.com/api?username=0xrsydn&show_icons=true&theme=rasyidanaf&hide_border=true&v=2)                                                     
+![0xrsydn's top languages](https://github-stats.rasyidanaf.com/api/top-langs?username=0xrsydn&layout=compact&theme=rasyidanaf&hide_border=true&v=2) 
