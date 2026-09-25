@@ -4,4 +4,4 @@
 - more info and my *bad* writings @ [rasyidanaf.com](https://rasyidanaf.com)
 
 ![0xrsydn's GitHub stats](https://github-stats.rasyidanaf.com/api?username=0xrsydn&show_icons=true&theme=rasyidanaf&hide_border=true&v=2)                                                     
-![0xrsydn's top languages](https://github-stats.rasyidanaf.com/api/top-langs?username=0xrsydn&layout=compact&theme=rasyidanaf&hide_border=true&v=2) 
+![0xrsydn's top languages](https://github-stats.rasyidanaf.com/api/top-langs?username=0xrsydn&layout=compact&theme=rasyidanaf&hide_border=true&v=3) 
